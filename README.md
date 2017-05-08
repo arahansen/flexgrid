@@ -1,5 +1,7 @@
 # Flexbox 12-Column Layout System
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/obartra/flexgrid.svg)](https://greenkeeper.io/)
+
 ## Rationale
 
 The goal of this demo was to implement a [Flexbox](https://www.w3.org/TR/css-flexbox-1)-based column layout system.
